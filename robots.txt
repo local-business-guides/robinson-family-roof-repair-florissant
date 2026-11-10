@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/robinson-family-roof-repair-florissant/sitemap.xml
+Sitemap: https://local-business-guides.github.io/robinson-family-roof-repair-florissant/news-sitemap.xml
